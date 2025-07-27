@@ -12,7 +12,6 @@ Este é um projeto desenvolvido no Bootcamp de Front-End da [Digital Innovation 
 - **(Adição personalizada)** Botão de "Back" na visualização de detalhes
 
 
-
 ## 🧠 Tecnologias Utilizadas
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +35,7 @@ Este é um projeto desenvolvido no Bootcamp de Front-End da [Digital Innovation 
   - Peso
   - Habilidades
 
-### 2. ✅ **Inclusão do botão “Back” (Voltar)**
+### 2. ✅ **Html e Javascript - Inclusão do botão “Back” (Voltar)**
 
 - Adicionado botão no final da página de detalhes.
 - Ao ser clicado, retorna à página anterior.
@@ -53,4 +52,3 @@ Projeto original fornecido pela [Digital Innovation One (DIO)](https://dio.me).
 API utilizada: https://pokeapi.co/
 
 Melhorias implementadas por Cristiane Machado
-
